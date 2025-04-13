@@ -80,15 +80,3 @@ Implemented from scratch with support for:
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/LoanClassification.git
-cd LoanClassification
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the script
-python loan_classification.py
